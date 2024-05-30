@@ -2,7 +2,6 @@
 
 Welcome to our Collaborative Whiteboard project! This interactive whiteboard application allows multiple users to collaborate in real-time, unleashing their creativity with features such as real-time mouse tracking, exporting drawings as images or PDFs, customizable brush color and size, and seamless collaboration among multiple users.
 
-![Collaborative Whiteboard Demo](demo.gif)
 
 ## Features
 
@@ -32,12 +31,13 @@ To run the project locally, follow these steps:
 
 4. Open your web browser and go to http://localhost:3000 to see the Collaborative Whiteboard in action!
 
-5. Technologies Used
-  Frontend: React.js, HTML5 Canvas API
-  Backend: Node.js, WebSocket
-  Other Libraries: Socket.IO, Express.js
+## Technologies Used
+- **Frontend: React.js, HTML5 Canvas API** 
+- **Backend: Node.js, WebSocket**
+- **Other Libraries: Socket.IO, Express.js** 
 
-
+Note
+Could Not add user authentication because of CORS error in Keycloak(this issue is being faced by huge number of developers worldwide)
 
 Acknowledgements
 Special thanks to the developers of Socket.IO and React.js for making real-time collaboration a breeze.
