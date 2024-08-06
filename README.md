@@ -48,4 +48,7 @@ UI Screenshots
 
 ![image](https://github.com/user-attachments/assets/91bc79d8-57f4-4e28-8b76-74761736bb39)
 
+![image](https://github.com/user-attachments/assets/3ca47c37-15d6-4d87-b544-2b7120619027)
+
+
 
